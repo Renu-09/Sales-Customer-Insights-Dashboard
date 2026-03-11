@@ -4,3 +4,31 @@ To analyze E-Commerce sales data and create an interactive Excel dashboard that 
 
 ## Dataset Used
 - <a href="https://github.com/Renu-09/Sales-Customer-Insights-Dashboard/blob/main/Data.xlsx">Dataset</a>
+
+## Questions(KPIs)
+- Trend in the last 13 weeks
+- How our customers like to buy
+- How many they buy?
+- Which products are popular?
+- Overall gender split
+- Where do our customers live?
+- How long we take to ship the orders
+- How happy are our customers?
+
+## Process 
+- Data Collection: Imported the E-Commerce sales dataset into Microsoft Excel.
+- Data Cleaning: Removed errors, handled missing values, and organized the data for analysis.
+- Data Analysis: Used Pivot Tables and formulas to analyze sales trends, customer behavior, and delivery performance.
+- Dashboard Creation: Built an interactive Excel dashboard using charts, slicers, and visualizations to present key insights.
+
+## Dashboard
+<img width="1412" height="644" alt="Screenshot 2026-03-11 135315" src="https://github.com/user-attachments/assets/454ea893-b0fa-4626-9904-5a3307279032" />
+
+## Project Insights
+- Identified the top-performing products and regions contributing the highest sales.
+- Observed customer purchasing patterns based on gender and location.
+- Analyzed order trends and delivery time to evaluate operational efficiency.
+- Reviewed customer ratings to understand satisfaction levels.
+
+## Final Conclusion
+The analysis of the E-Commerce dataset helped uncover key sales trends, customer behavior, and delivery performance, demonstrating how data visualization and dashboards can support better business decision-making.
