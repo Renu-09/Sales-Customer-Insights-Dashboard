@@ -1,2 +1,6 @@
 # Sales-Customer-Insights-Dashboard
-Designed and developed an interactive Excel dashboard to evaluate sales performance and customer behavior using Pivot Tables, KPIs, and advanced data visualization techniques. Delivered actionable insights on sales trends, product performance, and regional distribution to support data-driven business decisions.
+## Project Objective
+To analyze E-Commerce sales data and create an interactive Excel dashboard that reveals sales trends, customer behavior, and business insights for better decision-making.
+
+## Dataset Used
+- <a href=" https://github.com/Renu-09/Sales-Customer-Insights-Dashboard/blob/main/Data.xlsx">Dataset</a>
