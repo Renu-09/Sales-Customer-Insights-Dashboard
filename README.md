@@ -5,7 +5,14 @@ To analyze E-Commerce sales data and create an interactive Excel dashboard that 
 ## Dataset Used
 - <a href="https://github.com/Renu-09/Sales-Customer-Insights-Dashboard/blob/main/Data.xlsx">Dataset</a>
 
-## Questions(KPIs)
+## KPIs
+- Total Orders
+- Total Quantity
+- Total Amount
+- Avg. Rating
+- Avg. Days to Deliver
+
+## Questions
 - Trend in the last 13 weeks
 - How our customers like to buy
 - How many they buy?
