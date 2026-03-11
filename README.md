@@ -29,7 +29,7 @@ To analyze E-Commerce sales data and create an interactive Excel dashboard that 
 - Dashboard Creation: Built an interactive Excel dashboard using charts, slicers, and visualizations to present key insights.
 
 ## Dashboard
-<img width="1412" height="644" alt="Screenshot 2026-03-11 135315" src="https://github.com/user-attachments/assets/454ea893-b0fa-4626-9904-5a3307279032" />
+<img width="1409" height="646" alt="Screenshot 2026-03-11 163918" src="https://github.com/user-attachments/assets/fdd74375-52ff-468c-a140-720f22ed1fa8" />
 
 ## Project Insights
 - Identified the top-performing products and regions contributing the highest sales.
